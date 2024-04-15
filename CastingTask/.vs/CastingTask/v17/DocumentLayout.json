@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samir\\source\\repos\\CastingTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E273298-368B-48D7-871B-136F626E31CA}|CastingTask.csproj|c:\\users\\samir\\source\\repos\\castingtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E273298-368B-48D7-871B-136F626E31CA}|CastingTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AAE733-6944-4005-A7FA-104E6C941A3A}|..\\Core\\Core.csproj|c:\\users\\samir\\source\\repos\\core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AAE733-6944-4005-A7FA-104E6C941A3A}|..\\Core\\Core.csproj|c:\\users\\samir\\source\\repos\\core\\models\\rentcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AAE733-6944-4005-A7FA-104E6C941A3A}|..\\Core\\Core.csproj|c:\\users\\samir\\source\\repos\\core\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AAE733-6944-4005-A7FA-104E6C941A3A}|..\\Core\\Core.csproj|c:\\users\\samir\\source\\repos\\core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Car.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:19:38.504Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentCar.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\source\\repos\\Core\\Models\\RentCar.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\RentCar.cs",
+              "ToolTip": "C:\\Users\\samir\\source\\repos\\Core\\Models\\RentCar.cs",
+              "RelativeToolTip": "..\\Core\\Models\\RentCar.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:20:05.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Truck.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:19:48.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Vehicle.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:19:18.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\source\\repos\\CastingTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\samir\\source\\repos\\CastingTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:18:10.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
